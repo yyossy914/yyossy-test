@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <div className='contact'>
         <div className="contact-text">
-            <h1>Share Your Voice</h1>
+            <h1>Share Your Voic</h1>
             <h2>If you have any comments, ideas or concerns about anything, get in touch through our contact form or the email below:</h2>
             <h3>kaneko.yoshiki@ais.at</h3>
         </div>
