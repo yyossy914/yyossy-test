@@ -1,0 +1,20 @@
+.hero{
+    width:100vw;
+    min-height: 100vh;
+    background: url('../../assets/group_mascot_small.png');
+    background-size: cover;
+    background-position: center;
+    color: #2D2D2D;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero-text{
+    text-align: center;
+    max-width: 160vw;
+}
+.hero-text h1{
+    font-size: 9vh;
+    font-weight: 600;
+    padding-bottom: 40vh;
+}

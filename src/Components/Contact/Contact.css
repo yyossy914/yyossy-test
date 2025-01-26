@@ -1,0 +1,49 @@
+.contact{
+    min-height: 100vh;
+    color: #2D2D2D;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1vh;
+    padding: 10vh 2vw;
+}
+.contact-text{
+    text-align: center;
+    max-width: 80vh;
+}
+.contact-text h1{
+    font-size: 7vh;
+    font-weight: 1000;
+    margin-bottom: 2vh;
+}
+.contact-text h2{
+    font-size: 3vh;
+    font-weight: 400;
+    margin-bottom: 3vh; 
+}
+.contact-text h3{
+    font-size: 3vh;
+    font-weight: 1000;
+    margin-bottom: 2vh; 
+}
+.contact-col{
+    color: #2d2d2d;
+    width: 30vw;
+}
+.contact form input, .contact form textarea{
+    display: block;
+    width: 100%;
+    background: white;
+    padding: 1vw;
+    border: 0;
+    outline: 0;
+    margin-bottom: 2vh;
+    margin-top: 1vh;
+    resize: none;
+    border-radius: 1vw;
+}
+.contact-col form button{
+    display: block;
+    margin: 2vh auto;
+}

@@ -1,0 +1,14 @@
+.title{
+    text-align: center;
+    /* color: #2d2d2d; */
+    font-size: 3.6vh;
+    text-transform: none;
+    margin: 10vw 0 -4vh;
+}
+.title h2{
+    font-size: 8vh;
+    /* color: #2d2d2d; */
+    padding-top: 6vh;
+    margin-bottom: 5vh;
+    text-transform: none;
+}

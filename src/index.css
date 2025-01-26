@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400..700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "El Messiri", sans-serif;
+}
+body{
+  background: #A0DBB3;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+  line-height: 1;
+  cursor: pointer;
+}
+.container{
+  padding-left: 20vw;
+  padding-right: 20vw;
+}
+.btn{
+  background: #164734;
+  color: white;
+  padding: 1.5vh 2vw;
+  font-size: 2vh;
+  border-radius: 2vw;
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.title-inverse{
+  background-color: #164734;
+  padding-bottom: 10vh;
+}
+.text-inverse{
+  color:white;
+}

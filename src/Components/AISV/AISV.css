@@ -1,0 +1,21 @@
+.aisv{
+    margin: 15vh auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 55vw;
+}
+.aisv-left{
+    flex-basis: 60vw;
+}
+.aisv-right{
+    flex-basis: 35vw;
+}
+.aisv-img{
+    width: 16vw;
+    border-radius: 2vw;
+}
+.aisv-left h2{
+    font-weight: 600;
+    color: #2D2D2D;
+}

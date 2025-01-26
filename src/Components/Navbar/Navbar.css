@@ -1,0 +1,30 @@
+nav{
+    width: 100vw;
+    /* background: #A0DBB3; */
+    color: #2D2D2D;
+    padding: 0.1vh 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 10;
+}
+.logo{
+    width: 2.5vw;
+    cursor: pointer;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0.4vw 2.6vh;
+    font-size: 2vh;
+    cursor: pointer;
+}
+.navbar-inverse{
+    background-color: #A0DBB3;
+}
+.btn:hover{
+    background: #184e39;
+}
